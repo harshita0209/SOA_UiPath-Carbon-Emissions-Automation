@@ -1,0 +1,495 @@
+09/07/2026 19:09:33 => [Trace] Execution started for project: CarbonEmissions-FinalProject
+09/07/2026 19:09:34 => [Information] CarbonEmissions-FinalProject execution started
+{
+  "message": "CarbonEmissions-FinalProject execution started",
+  "level": "Information",
+  "logType": "Default",
+  "timeStamp": "19:09:34",
+  "fileName": "Main",
+  "initiatedBy": "Studio",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:34 => [Information] Main Started - Carbon Emissions Main process started
+{
+  "message": "Main Started - Carbon Emissions Main process started",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:09:34",
+  "fileName": "Main",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:34 => [Information] Process 01 Started - Checking Outlook for daily emissions request email
+{
+  "message": "Process 01 Started - Checking Outlook for daily emissions request email ",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:09:34",
+  "fileName": "01_GetRequestEmail",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:37 => [Information] Requested Email Found
+{
+  "message": "Requested Email Found",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:09:37",
+  "fileName": "01_GetRequestEmail",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:37 => [Information] Request email check completed
+{
+  "message": "Request email check completed",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:09:37",
+  "fileName": "01_GetRequestEmail",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:37 => [Information] Process 01 Ended - Checking Outlook for daily emissions request email
+{
+  "message": "Process 01 Ended - Checking Outlook for daily emissions request email ",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:09:37",
+  "fileName": "01_GetRequestEmail",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:38 => [Information] Process 02 Started - Retrieval of vehicle emissions data from the VCA website.
+{
+  "message": "Process 02 Started - Retrieval of vehicle emissions data from the VCA website.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:09:38",
+  "fileName": "02_RetrieveVehicleData",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:39 => [Trace] Audit: Using Web App. Browser: Chrome URL: https://carfueldata.vehicle-certification-agency.gov.uk/
+{
+  "message": "Audit: Using Web App. Browser: Chrome URL: https://carfueldata.vehicle-certification-agency.gov.uk/",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:09:39",
+  "fileName": "02_RetrieveVehicleData",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "browserType": 2,
+  "auditMessage": true,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32",
+  "activityType": "Use Browser",
+  "targetUrl": "https://carfueldata.vehicle-certification-agency.gov.uk/"
+}
+09/07/2026 19:09:39 => [Information] Healing agent is disabled for the current job.
+{
+  "message": "Healing agent is disabled for the current job.",
+  "level": "Information",
+  "logType": "Default",
+  "timeStamp": "19:09:39",
+  "fileName": "02_RetrieveVehicleData",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "healingAgentConfig": {
+    "orchestratorEnableHeal": false,
+    "orchestratorEnableAnalysis": false
+  },
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:09:45 => [Trace] Audit: Extract Data. From: <html app='chrome.exe' title='Select a search : Directgov - Car fuel data, CO2 and vehicle tax tools' />
+{
+  "message": "Audit: Extract Data. From: <html app='chrome.exe' title='Select a search : Directgov - Car fuel data, CO2 and vehicle tax tools' />",
+  "level": "Trace",
+  "logType": "Default",
+  "timeStamp": "19:09:45",
+  "fileName": "02_RetrieveVehicleData",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "auditMessage": true,
+  "sourceUrl": "<html app='chrome.exe' title='Select a search : Directgov - Car fuel data, CO2 and vehicle tax tools' />",
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32",
+  "activityType": "Extract Data"
+}
+09/07/2026 19:10:24 => [Information] Successfully retrieved 1929 vehicle records from the VCA website.
+{
+  "message": "Successfully retrieved 1929 vehicle records from the VCA website.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:24",
+  "fileName": "02_RetrieveVehicleData",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:24 => [Information] Process 02 Ended - Retrieval of vehicle emissions data from the VCA website.
+{
+  "message": "Process 02 Ended - Retrieval of vehicle emissions data from the VCA website.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:24",
+  "fileName": "02_RetrieveVehicleData",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:24 => [Information] Process 03 Started - Classification of retrieved vehicle emissions data.
+{
+  "message": "Process 03 Started - Classification of retrieved vehicle emissions data.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:24",
+  "fileName": "03_ClassifyEmissions",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:24 => [Information] Vehicle records received for classification: 1929
+{
+  "message": "Vehicle records received for classification: 1929",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:24",
+  "fileName": "03_ClassifyEmissions",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:25 => [Information] Classification completed. Zero: 1205 | Ultra-Low: 574 | Low: 150 | Invalid: 0 | Excluded: 0
+{
+  "message": "Classification completed. Zero: 1205 | Ultra-Low: 574 | Low: 150 | Invalid: 0 | Excluded: 0",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:25",
+  "fileName": "03_ClassifyEmissions",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:25 => [Information] Process 03 Ended - Classification workflow ended.
+{
+  "message": "Process 03 Ended - Classification workflow ended.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:25",
+  "fileName": "03_ClassifyEmissions",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:25 => [Information] Process 04 Started - Creation of the CO2 emissions Excel report.
+{
+  "message": "Process 04 Started - Creation of the CO2 emissions Excel report.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:25",
+  "fileName": "04_CreateExcelReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:25 => [Information] Preparing Excel report at: C:\Users\harsh\OneDrive\Documents\UiPath\CarbonEmissions-FinalProject\Output\CO2 EMISSIONS 07-09.xlsx
+{
+  "message": "Preparing Excel report at: C:\\Users\\harsh\\OneDrive\\Documents\\UiPath\\CarbonEmissions-FinalProject\\Output\\CO2 EMISSIONS 07-09.xlsx",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:25",
+  "fileName": "04_CreateExcelReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:39 => [Information] Process 04 Ended - Creation of the CO2 emissions Excel report.
+{
+  "message": "Process 04 Ended - Creation of the CO2 emissions Excel report.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:39",
+  "fileName": "04_CreateExcelReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:39 => [Information] Process 05 Started - Validation of generated Excel report.
+{
+  "message": "Process 05 Started - Validation of generated Excel report.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:39",
+  "fileName": "05_ValidateReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:42 => [Information] Report validated successfully. ZERO: 1205 | ULTRA-LOW: 574 | LOW: 150
+{
+  "message": "Report validated successfully. ZERO: 1205 | ULTRA-LOW: 574 | LOW: 150",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:42",
+  "fileName": "05_ValidateReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:42 => [Information] Process 05 Ended - Validation of generated Excel report.
+{
+  "message": "Process 05 Ended - Validation of generated Excel report.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:42",
+  "fileName": "05_ValidateReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:42 => [Information] Report validation passed: Report validation completed successfully.
+{
+  "message": "Report validation passed: Report validation completed successfully.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:42",
+  "fileName": "Main",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:42 => [Information] Process 06 Started - Delivery of the completed CO2 emissions report.
+{
+  "message": "Process 06 Started - Delivery of the completed CO2 emissions report.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:42",
+  "fileName": "06_SendCompletedReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:44 => [Information] Completed CO2 emissions report was sent successfully.
+{
+  "message": "Completed CO2 emissions report was sent successfully.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:44",
+  "fileName": "06_SendCompletedReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:44 => [Information] Email delivery confirmed. emailSent = True
+{
+  "message": "Email delivery confirmed. emailSent = True",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:44",
+  "fileName": "06_SendCompletedReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:44 => [Information] Process 06 Ended - Delivery of the completed CO2 emissions report.
+{
+  "message": "Process 06 Ended - Delivery of the completed CO2 emissions report.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:44",
+  "fileName": "06_SendCompletedReport",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:44 => [Information] Carbon Emissions process completed successfully. Report: C:\Users\harsh\OneDrive\Documents\UiPath\CarbonEmissions-FinalProject\Output\CO2 EMISSIONS 07-09.xlsx
+{
+  "message": "Carbon Emissions process completed successfully. Report: C:\\Users\\harsh\\OneDrive\\Documents\\UiPath\\CarbonEmissions-FinalProject\\Output\\CO2 EMISSIONS 07-09.xlsx",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:44",
+  "fileName": "Main",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:44 => [Information] Main Ended - Carbon Emissions process execution ended.
+{
+  "message": "Main Ended - Carbon Emissions process execution ended.",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "19:10:44",
+  "fileName": "Main",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}
+09/07/2026 19:10:44 => [Information] CarbonEmissions-FinalProject execution ended in: 00:01:10
+{
+  "message": "CarbonEmissions-FinalProject execution ended",
+  "level": "Information",
+  "logType": "Default",
+  "timeStamp": "19:10:44",
+  "fileName": "Main",
+  "totalExecutionTimeInSeconds": 70,
+  "totalExecutionTime": "00:01:10",
+  "jobId": "d6444dd9-c1bb-43b6-bc3e-4c191385c049",
+  "robotName": "hnagpal0209@gmail.com-attended",
+  "machineId": 5868888,
+  "robotVersion": "26.0.201-cloud.24739",
+  "userKey": "4ec26c0c-b4ff-4670-8087-e40b1f2cfe88",
+  "processVersion": "1.0.0",
+  "organizationUnitId": 8194210,
+  "businessOperationId": "77b269d2aa9e4eb3874008eb307764d7-6ce78d7da56040b99585a4e562fcfb32"
+}

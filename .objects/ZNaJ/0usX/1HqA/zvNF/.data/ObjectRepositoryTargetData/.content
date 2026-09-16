@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5cOE6V19X0iwi-_lTmDAzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="carfueldata.vehicle-certification-agency.gov.uk/search-by-low-emissions.aspx" DesignTimeRectangle="338, 495, 46, 29" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl name='ctl00$ContentPlaceHolder1$carResultsGrid1$btnUpdateGridPageSize' tag='INPUT' type='submit' /&gt;" Guid="5346d90a-a6d3-44ac-9aff-b8763118c9bb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CO2 Emissions : Directgov - Find new cars by fuel economy' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3758abf7ae1ac322f0cb5dd5f983736f.jpg" xmlns="">03FsQvLbqjkmz_UmFu5qEOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

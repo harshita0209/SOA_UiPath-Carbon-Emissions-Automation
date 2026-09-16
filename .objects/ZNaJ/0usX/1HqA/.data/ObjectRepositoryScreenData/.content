@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="n5RMYLrpXU-7j_p47I_uEA" Reference="0I2L6UAxtEKyU2Bkl-z7Tw/1HqA0oOMmEmth7ureYfBkw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Chrome" ContentHash="nqN53oJL00aiVeXBkQ1qZQ" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAFvSURBVDhPlZKvb4NQEMebpYqgCIpULUj+gqZ/QmUlakEtyEokmVqqyOQUqWqmlipS9SSZQjZVL6jlKfIU4Za7x48+GEsmLsC7+37ue/dY1E0Nf8XpzGD5sIOlFdDTf0q0/GIs6KJqalgakRIaIT1NK6J309pTfhaAXZQwguRYaLnwOe1zswDTUXbH51qNFVPNBICHprOHuqkmIq3OCMF24jGgIvFmHUBWrqAQ8y7UTjRABXm5oQQCcuFBLl1gYjURY2B3bYRc2nAVETnoFkTnCCq3g1jW4D6G7ZjtElm5BS5jOqikGgOdpB/XFq5cpGdOnTGfvGUDAOcd7PG+AxUbO3JB35YPthNB/HLq6xXg5k0Whk5w00zY4K03BDCtQKvpARis9KgTlynUDQN28yErTX1+Cv16726B0yIL6QETLs3NhZozOnBgXxV8Xr7h9Z3PAX7vgsL73PjXngEMkV3UTXTQfwNQGB84RXLU7WP8AG0yThZWT3VIAAAAAElFTkSuQmCC" Reference="0I2L6UAxtEKyU2Bkl-z7Tw/1HqA0oOMmEmth7ureYfBkw" Selector="&lt;html app='chrome.exe' title='Select a search : Directgov - Car fuel data, CO2 and vehicle tax tools' /&gt;" Url="https://carfueldata.vehicle-certification-agency.gov.uk/" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="df76d3f5871bdcb2187669d63d7b594f.jpg" xmlns="">0eNo_J75nW02VSUHmD9_pIw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

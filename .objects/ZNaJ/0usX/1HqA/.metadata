@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Access VCA Emissions Website",
+  "Type": "Screen",
+  "Id": "1HqA0oOMmEmth7ureYfBkw",
+  "Reference": "0I2L6UAxtEKyU2Bkl-z7Tw/1HqA0oOMmEmth7ureYfBkw",
+  "ParentRef": "0I2L6UAxtEKyU2Bkl-z7Tw/0usX6rN0w0izwH1rUDm7KA",
+  "Created": "2026-09-03T17:37:15.4978465Z",
+  "Updated": "2026-09-03T17:37:15.4978465Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

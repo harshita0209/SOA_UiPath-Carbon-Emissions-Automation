@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m001Ihp8pkSj5dmky475Og" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="carfueldata.vehicle-certification-agency.gov.uk" DesignTimeRectangle="151, 839, 408, 19" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Find new Zero, Low and Ultra-Low emission cars' parentid='Content' tag='A' /&gt;" Guid="027ce154-6575-48a7-b8c0-3bfa5dd198e5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Select a search : Directgov - Car fuel data, CO2 and vehicle tax tools' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="86d00b30208d5482cc0ce2cd65dc9992.jpg" xmlns="">0CznQkiZizUyqBj4QI5Hogg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

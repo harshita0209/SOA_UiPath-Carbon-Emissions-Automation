@@ -1,0 +1,6 @@
+{
+  "Name": "CarbonEmissions-FinalProject",
+  "ProjectType": "Process",
+  "Description": "Automates retrieval, classification and reporting of vehicle CO2 emissions data\nfrom the Vehicle Certification Agency.",
+  "MainFile": "Main.xaml"
+}

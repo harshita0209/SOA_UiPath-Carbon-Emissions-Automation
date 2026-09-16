@@ -1,0 +1,13 @@
+﻿{
+  "Name": "To view fuel consumptio…",
+  "Type": "Element",
+  "Id": "ILp5hh948kmnrWOAZPRz2Q",
+  "Reference": "0I2L6UAxtEKyU2Bkl-z7Tw/ILp5hh948kmnrWOAZPRz2Q",
+  "ParentRef": "0I2L6UAxtEKyU2Bkl-z7Tw/1HqA0oOMmEmth7ureYfBkw",
+  "Created": "2026-09-03T17:47:29.5091641Z",
+  "Updated": "2026-09-03T17:47:29.5091641Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
